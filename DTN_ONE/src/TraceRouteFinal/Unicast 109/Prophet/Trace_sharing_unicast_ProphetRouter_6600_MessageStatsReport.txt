@@ -1,0 +1,22 @@
+Message stats for scenario Trace_sharing_unicast_ProphetRouter_6600
+sim_time: 6600.0000
+created: 201
+started: 5763
+relayed: 5538
+aborted: 225
+dropped: 0
+removed: 0
+delivered: 198
+delivery_prob: 0.9851
+response_prob: 0.0000
+overhead_ratio: 26.9697
+latency_avg: 1670.6091
+latency_med: 921.7000
+hopcount_avg: 2.1364
+hopcount_med: 2
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+

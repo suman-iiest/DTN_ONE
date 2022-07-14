@@ -1,0 +1,22 @@
+Message stats for scenario Trace_sharing_unicast_MaxPropRouter_10200
+sim_time: 10200.0000
+created: 201
+started: 2905
+relayed: 2804
+aborted: 101
+dropped: 0
+removed: 2863
+delivered: 142
+delivery_prob: 0.7065
+response_prob: 0.0000
+overhead_ratio: 18.7465
+latency_avg: 305.6232
+latency_med: 13.1000
+hopcount_avg: 2.1972
+hopcount_med: 1
+buffertime_avg: 921.4943
+buffertime_med: 830.9000
+rtt_avg: NaN
+rtt_med: NaN
+
+

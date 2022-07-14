@@ -1,0 +1,20 @@
+Message stats for scenario Connectivity_scenario_ProphetRouter_40_12600
+sim_time: 12600.0000
+created: 12
+started: 79
+relayed: 72
+aborted: 7
+dropped: 0
+removed: 0
+delivered: 4
+delivery_prob: 0.3333
+response_prob: 0.0000
+overhead_ratio: 17.0000
+latency_avg: 10532.1250
+latency_med: 10299.5000
+hopcount_avg: 2.2500
+hopcount_med: 2
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN

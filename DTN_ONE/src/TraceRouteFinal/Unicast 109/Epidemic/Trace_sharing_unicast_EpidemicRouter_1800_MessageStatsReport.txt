@@ -1,0 +1,22 @@
+Message stats for scenario Trace_sharing_unicast_EpidemicRouter_1800
+sim_time: 1800.1000
+created: 201
+started: 1669
+relayed: 1646
+aborted: 23
+dropped: 0
+removed: 0
+delivered: 115
+delivery_prob: 0.5721
+response_prob: 0.0000
+overhead_ratio: 13.3130
+latency_avg: 368.9296
+latency_med: 23.4000
+hopcount_avg: 1.6000
+hopcount_med: 1
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+

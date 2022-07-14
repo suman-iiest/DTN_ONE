@@ -1,0 +1,20 @@
+Message stats for scenario Content_Distribution_MaxPropRouter_600
+sim_time: 600.0000
+created: 130
+started: 1570
+relayed: 1500
+aborted: 68
+dropped: 0
+removed: 171
+delivered: 64
+delivery_prob: 0.4923
+response_prob: 0.0000
+overhead_ratio: 22.4375
+latency_avg: 188.6859
+latency_med: 2.3000
+hopcount_avg: 2.1250
+hopcount_med: 1
+buffertime_avg: 183.6579
+buffertime_med: 133.3000
+rtt_avg: NaN
+rtt_med: NaN

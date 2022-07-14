@@ -1,0 +1,20 @@
+Message stats for scenario Content_Distribution_EpidemicRouter_3000
+sim_time: 3000.1000
+created: 130
+started: 5443
+relayed: 5173
+aborted: 270
+dropped: 0
+removed: 0
+delivered: 127
+delivery_prob: 0.9769
+response_prob: 0.0000
+overhead_ratio: 39.7323
+latency_avg: 741.0441
+latency_med: 559.8000
+hopcount_avg: 3.4252
+hopcount_med: 3
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN

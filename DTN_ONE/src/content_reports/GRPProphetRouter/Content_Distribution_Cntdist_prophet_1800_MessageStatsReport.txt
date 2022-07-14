@@ -1,0 +1,22 @@
+Message stats for scenario Content_Distribution_Cntdist_prophet_1800
+sim_time: 1800.1000
+created: 130
+started: 2016
+relayed: 1929
+aborted: 87
+dropped: 0
+removed: 0
+delivered: 184
+delivery_prob: 1.4154
+response_prob: 0.0000
+overhead_ratio: 9.4837
+latency_avg: 710.6397
+latency_med: 650.6000
+hopcount_avg: 2.0163
+hopcount_med: 2
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+

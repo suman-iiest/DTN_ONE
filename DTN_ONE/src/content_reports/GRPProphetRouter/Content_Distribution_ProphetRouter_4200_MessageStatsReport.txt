@@ -1,0 +1,20 @@
+Message stats for scenario Content_Distribution_ProphetRouter_4200
+sim_time: 4200.1000
+created: 130
+started: 1874
+relayed: 1752
+aborted: 122
+dropped: 0
+removed: 0
+delivered: 118
+delivery_prob: 0.9077
+response_prob: 0.0000
+overhead_ratio: 13.8475
+latency_avg: 1179.8992
+latency_med: 1064.7000
+hopcount_avg: 2.2458
+hopcount_med: 2
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN

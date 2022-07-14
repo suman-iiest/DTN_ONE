@@ -1,0 +1,22 @@
+Message stats for scenario Trace_sharing_multicast_TraceRoute_3600
+sim_time: 3600.1000
+created: 10
+started: 149
+relayed: 149
+aborted: 0
+dropped: 0
+removed: 0
+delivered: 134
+delivery_prob: 13.4000
+response_prob: 0.0000
+overhead_ratio: 0.1119
+latency_avg: 485.9142
+latency_med: 3.7000
+hopcount_avg: 1.2313
+hopcount_med: 1
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
+
+

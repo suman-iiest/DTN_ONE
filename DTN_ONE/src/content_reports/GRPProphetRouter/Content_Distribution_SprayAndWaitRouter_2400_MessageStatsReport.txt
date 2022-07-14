@@ -1,0 +1,20 @@
+Message stats for scenario Content_Distribution_SprayAndWaitRouter_2400
+sim_time: 2400.1000
+created: 130
+started: 598
+relayed: 573
+aborted: 25
+dropped: 0
+removed: 0
+delivered: 44
+delivery_prob: 0.3385
+response_prob: 0.0000
+overhead_ratio: 12.0227
+latency_avg: 199.9182
+latency_med: 1.4000
+hopcount_avg: 1.3409
+hopcount_med: 1
+buffertime_avg: NaN
+buffertime_med: NaN
+rtt_avg: NaN
+rtt_med: NaN
